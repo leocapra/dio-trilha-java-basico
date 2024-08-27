@@ -13,5 +13,12 @@ public class ResultadoEscolar {
 
         else
         System.out.println("REPROVADO");
+
+
+        /*ternario
+        String resultado = nota >= 7 ? "APROVADO" : "REPROVADO";
+        System.out.println(resultado);
+
+        */
     }
 }
