@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         System.out.println("Programa:'Por favor, digite seu nome !' ");
