@@ -9,8 +9,6 @@ public class ExemploDoWhile {
         } while(tocando());
 
         System.out.println("Alô !!!");
-
-        boolean condicao = false; while(condicao){ System.out.println("executou ... "); }
     }
     private static boolean tocando() {
         boolean atendeu = new Random().nextInt(3)==1;
