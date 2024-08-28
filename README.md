@@ -12,11 +12,15 @@ A trilha é composta pelos seguintes módulos:
    - Estruturas de controle de fluxo (if, else, switch)
    - Loops (for, while, do-while)
 
-
-### Estrutura de diretórios
+### Trilha percorrida
 
 ```plaintext
 📦trilha-java-basico
  ┣ 📂modulo1-sintaxe-linguagem
  ┃ ┣ 📜Variaveis.java
- ┃ 
+ ┃ ┣ 📜Operadores.java
+ ┃ ┣ 📂desafio
+ ┃ ┃ ┣ 📜ContaBanco.java
+ ┃ ┣ 📜Metodos.java
+ ┃ ┣ 📜ControleDeFluxo.java
+ ┃ ┣ 📜Loops.java
