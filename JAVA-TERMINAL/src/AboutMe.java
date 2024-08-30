@@ -20,7 +20,7 @@ public class AboutMe {
         //imprimindo os dados obtidos pelo usuario
 
         System.out.println("Ola, me chamo " + nome + " " + sobrenome);
-        System.err.println("Tenho " + idade + " Anos ");
+        System.out.println("Tenho " + idade + " Anos ");
         System.out.println("Minha altura é " + altura + "cm ");
 
     }
