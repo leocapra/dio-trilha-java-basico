@@ -25,7 +25,7 @@ public class AboutMe {
             System.out.println("Minha altura é " + altura + "cm ");
             scanner.close();
 
-        } 
+        }
         catch (InputMismatchException e) {
             System.err.println("Os campos idade e altura precisam ser númericos!");
         }
